@@ -1,0 +1,1 @@
+mp_potential_step(hero.x, hero.y, 4, true)
